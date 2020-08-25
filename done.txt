@@ -1,0 +1,13 @@
+--- Backend section --
+
+Auth - Done - all functions - from laravel - and with view of email setup of our
+
+topic - Done - all functions
+topic - validation
+authorization for topic - Done - all check points
+
+plan - Done - all functions
+plan - validation
+authorization for plan - Done - all check points
+
+Auth - password change. with all validation.
